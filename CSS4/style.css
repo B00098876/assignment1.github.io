@@ -1,0 +1,73 @@
+@charset "utf-8";
+@charset "utf-8";
+/* CSS Document */
+
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+
+
+
+.p{
+	font-family:Verdana, Geneva, sans-serif
+}
+
+
+
+
+
+
+
+.footer{
+	position:fixed;
+	
+	
+}
+
+ 
+ .nav{
+	 width:50;
+	 
+ }
+ 
+ 
+ .contact{
+	 background-color:#4CAF50;
+ }
+-----------------------------------
+
+ul {
+    
+    block
+    width:60%;
+    background-color: #blue;
+    position: fixed;
+    height: 35%;
+    overflow: auto;
+	
+}
+
+
+
+ a {
+    display: block;
+    color: #000;
+    padding: 10px 10px;
+	text-decoration: none;
+	font-family:  "Georgia", Serif;    
+}
+
+.active {
+    background-color: #00F;
+    color: #000;
+	text-decoration: none;
+	
+}
+
+ a:hover:not(.active) {
+    background-color: #00C;
+    color: #0C0;/* CSS Document */
+

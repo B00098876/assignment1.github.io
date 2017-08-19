@@ -1,0 +1,91 @@
+@charset "utf-8";
+/* CSS Document */
+
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+
+
+
+
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.p{
+	position:fluid;
+	font-family:Verdana, Geneva, sans-serif;
+	
+	
+}
+
+
+
+
+.footer{
+	position:fixed;
+	
+	
+}
+
+
+.image{
+	height: auto;
+	width:auto;
+	
+		
+}
+ 
+ .nav{
+	 width:50;
+	 
+ }
+ 
+ 
+ .contact{
+	 background-color:#blue;
+ }
+ 
+ .aboutme{
+	 background-color:#blue;
+ }
+-----------------------------------
+
+ul {
+    
+    
+    width:60%;
+    background-color: #blue;
+    position: fixed;
+    height: 35%;
+    overflow: auto;
+	
+}
+
+
+
+ a {
+	
+    display: block;
+    color: black;
+    padding: 10px 10px;
+	text-decoration: none;
+	font-family:  "Georgia", Serif;    
+
+}
+
+.active {
+    background-color: #00F;
+    color: black;
+	text-decoration: none;
+	
+}
+
+ a:hover:not(.active) {
+    background-color: #00C;
+    color: black;
+ 	
